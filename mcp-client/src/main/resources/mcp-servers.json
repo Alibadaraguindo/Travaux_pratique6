@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\badar\\Desktop\\SEMESTRE2\\ACTIVITE_PRATIQUE_6"
+      ]
+    }
+  }
+}
