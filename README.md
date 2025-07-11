@@ -1,3 +1,8 @@
+# GUINDO BADARA ALIOU
+# MSDIA
+# 2100000017
+
+
 # Création d'un projet Java Maven simple
 
 Ce projet illustre une architecture multi-modules basée sur **Spring Boot** et **Spring AI MCP**, incluant :
